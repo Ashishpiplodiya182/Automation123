@@ -1,0 +1,18 @@
+2021-10-26 15:19:58,788 455  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 15:19:58,792 459  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_15_19_58
+2021-10-26 15:19:58,970 637  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 15:20:01,742 3409 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:01,782 3449 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:20:06,078 7745 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cf50aeaff73baeae13ac written in .json file
+2021-10-26 15:20:06,083 7750 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:06,086 7753 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:20:06,863 8530 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cf5236821d1345ffe603 written in .json file
+2021-10-26 15:20:06,865 8532 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:06,867 8534 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:20:07,660 9327 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cf5323f5670947c3b0ab written in .json file
+2021-10-26 15:20:07,664 9331 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:07,666 9333 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:20:08,348 10015 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:08,349 10016 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:20:08,961 10628 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:20:08,963 10630 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request

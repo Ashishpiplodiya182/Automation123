@@ -1,0 +1,45 @@
+2021-10-24 19:03:41,677 310  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 19:03:42,014 647  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 19:03:42,017 650  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_19_03_42
+2021-10-24 19:03:42,162 795  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 19:03:48,217 6850 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 19:03:51,911 10544 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5NjM1LCJpYXQiOjE2MzUwODI0MzV9.bOj612vWVhWAK0sZU9rt7x2ApL5UWk5f8JynByDrh3m7qNZ4aPHSPQqrMQmPeXJuvyoTTrC8i5ix5beIb8Ic9g written in token.json file
+2021-10-24 19:03:51,913 10546 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5NjM1LCJpYXQiOjE2MzUwODI0MzV9.bOj612vWVhWAK0sZU9rt7x2ApL5UWk5f8JynByDrh3m7qNZ4aPHSPQqrMQmPeXJuvyoTTrC8i5ix5beIb8Ic9g"
+}
+2021-10-24 19:03:54,148 12781 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 19:03:56,061 14694 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-24 19:03:58,417 17050 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-24 19:04:00,581 19214 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - Project Updated Successfully using PUT Request
+2021-10-24 19:04:00,586 19219 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 19:04:00,693 19326 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to Send the Update Request

@@ -1,0 +1,4 @@
+2021-10-22 13:57:03,112 219  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 13:57:03,116 223  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_13_57_03
+2021-10-22 13:57:03,214 321  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 13:57:07,031 4138 [main] INFO  com.demo.JobPortal.Testing - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODk4NDI3LCJpYXQiOjE2MzQ4OTEyMjd9.v7fsHYq_n88_veX7syArmJJhQBziSypx4migi82LrY2YCn0vwpSozUtG-hkMma7Vnpjx2g4cst6Tn2NLskTwyw written in token.json file

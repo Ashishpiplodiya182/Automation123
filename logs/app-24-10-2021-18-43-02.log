@@ -1,0 +1,5 @@
+2021-10-24 18:43:02,140 328  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:43:02,420 608  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:43:02,423 611  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_43_02
+2021-10-24 18:43:02,589 777  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:43:04,880 3068 [main] ERROR com.demo.JobPortal.TC1_UserSignUp - Unable to add Path Parameter

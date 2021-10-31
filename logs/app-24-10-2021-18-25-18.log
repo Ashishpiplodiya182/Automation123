@@ -1,0 +1,44 @@
+2021-10-24 18:25:18,870 543  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:25:19,200 873  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:25:19,206 879  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_25_19
+2021-10-24 18:25:19,365 1038 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:25:25,367 7040 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-24 18:25:25,378 7051 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - {
+    "timestamp": "2021-10-24T12:55:29.466+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/all"
+}
+2021-10-24 18:25:27,087 8760 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-24 18:25:27,089 8762 [main] INFO  com.demo.JobPortal.TC5_FindProject - {
+    "timestamp": "2021-10-24T12:55:31.386+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/find"
+}
+2021-10-24 18:25:28,767 10440 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - Project Updated Successfully using PUT Request
+2021-10-24 18:25:28,769 10442 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "timestamp": "2021-10-24T12:55:33.050+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/update"
+}
+2021-10-24 18:25:30,535 12208 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - Project Updated Successfully using PATCH Request
+2021-10-24 18:25:30,541 12214 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - {
+    "timestamp": "2021-10-24T12:55:34.834+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/update/details"
+}
+2021-10-24 18:25:32,129 13802 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - Project Deleted Successfully
+2021-10-24 18:25:32,133 13806 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "timestamp": "2021-10-24T12:55:36.403+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/remove/234"
+}

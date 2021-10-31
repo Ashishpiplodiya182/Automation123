@@ -1,0 +1,155 @@
+2021-10-26 10:08:49,393 397  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-26 10:08:49,776 780  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 10:08:49,780 784  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_10_08_49
+2021-10-26 10:08:49,966 970  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 10:08:57,629 8633 [main] INFO  com.demo.Trello.TC1_CreateBoard - 61778663497ab724d048cc15 written in .json file
+2021-10-26 10:08:57,657 8661 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "61778663497ab724d048cc15",
+    "name": "TestyantraAutomation",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/ntKhK9AK/testyantraautomation",
+    "shortUrl": "https://trello.com/b/ntKhK9AK",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}
+2021-10-26 10:09:03,529 14533 [main] INFO  com.demo.Trello.TC2_CreateList - 6177866b64e1fe79c64bc91c written in .json file
+2021-10-26 10:09:03,531 14535 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6177866b64e1fe79c64bc91c",
+    "name": "TestyantraAutomation",
+    "closed": false,
+    "pos": 8192,
+    "idBoard": "61778663497ab724d048cc15",
+    "limits": {
+        
+    }
+}
+2021-10-26 10:09:09,435 20439 [main] INFO  com.demo.Trello.TC3_CreateCard - 61778671dbef46519e2eeece written in .json file
+2021-10-26 10:09:09,441 20445 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "61778671dbef46519e2eeece",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-26T04:39:13.516Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "61778663497ab724d048cc15",
+    "idList": "6177866b64e1fe79c64bc91c",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "TestyantraAutomation",
+    "pos": 16384,
+    "shortLink": "RevTmAlZ",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/RevTmAlZ",
+    "start": null,
+    "url": "https://trello.com/c/RevTmAlZ/1-testyantraautomation",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "idChecklists": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}

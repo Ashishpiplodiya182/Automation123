@@ -1,0 +1,4 @@
+2021-10-25 21:07:36,994 388  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 21:07:36,998 392  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_21_07_36
+2021-10-25 21:07:37,143 537  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 21:07:43,364 6758 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6176cf4a809899178dae4f47 written in token.json file

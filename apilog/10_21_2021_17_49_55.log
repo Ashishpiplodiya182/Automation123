@@ -1,0 +1,370 @@
+Request method:	POST
+Request URI:	https://jobapplicationjwt.herokuapp.com/users/sign-up
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+.\data\userData.json
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Content-Length: 32
+Date: Thu, 21 Oct 2021 12:20:00 GMT
+Via: 1.1 vegur
+
+Manikandan register successfully
+Request method:	POST
+Request URI:	https://jobapplicationjwt.herokuapp.com/users/authenticate
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+.\data\userData.json
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:01 GMT
+Via: 1.1 vegur
+
+{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw"
+}
+Request method:	POST
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+.\data\projectData.json
+HTTP/1.1 201 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:04 GMT
+Via: 1.1 vegur
+
+{
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+Request method:	GET
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/all
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:05 GMT
+Via: 1.1 vegur
+
+[
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    },
+    {
+        "jobId": 120,
+        "jobTitle": "Tester",
+        "jobDescription": "Automation tester",
+        "experience": [
+            "2"
+        ],
+        "project": [
+            {
+                "projectName": "HCL",
+                "technology": [
+                    "java "
+                ]
+            }
+        ]
+    },
+    {
+        "jobId": 234,
+        "jobTitle": "SDET Engineer",
+        "jobDescription": "SDET Role",
+        "experience": [
+            "2 Years"
+        ],
+        "project": [
+            {
+                "projectName": "HCL",
+                "technology": [
+                    "java"
+                ]
+            }
+        ]
+    }
+]
+Request method:	GET
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/find?id=234&jobTitle=SDET%20Engineer
+Proxy:			<none>
+Request params:	<none>
+Query params:	id=234
+				jobTitle=SDET Engineer
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:06 GMT
+Via: 1.1 vegur
+
+{
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+Request method:	PUT
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/update
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+.\data\updatePut.json
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:08 GMT
+Via: 1.1 vegur
+
+{
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+Request method:	PATCH
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/update/details?id=234&jobTitle=SDET%20Engineer&jobDescription=SDET
+Proxy:			<none>
+Request params:	<none>
+Query params:	id=234
+				jobTitle=SDET Engineer
+				jobDescription=SDET
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:10 GMT
+Via: 1.1 vegur
+
+{
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+Request method:	DELETE
+Request URI:	https://jobapplicationjwt.herokuapp.com/auth/webapi/remove/234
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=234
+Headers:		Accept=application/json
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI2MDAxLCJpYXQiOjE2MzQ4MTg4MDF9.6Q1hYoBBVzn3HlueVhoLpB6YikMAtIYRlnCpq_VgwrFrN1nxPPlYCqjjvSneEV5jLfKnNPipv5DYEMtaDYpJyw
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Server: Cowboy
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Thu, 21 Oct 2021 12:20:11 GMT
+Via: 1.1 vegur
+
+{
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}

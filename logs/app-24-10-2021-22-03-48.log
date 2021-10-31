@@ -1,0 +1,4 @@
+2021-10-24 22:03:48,183 346  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 22:03:48,445 608  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 22:03:48,448 611  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_22_03_48
+2021-10-24 22:03:48,585 748  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated

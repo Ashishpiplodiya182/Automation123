@@ -1,0 +1,20 @@
+2021-10-24 21:59:36,777 386  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 21:59:37,090 699  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 21:59:37,092 701  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_21_59_37
+2021-10-24 21:59:37,263 872  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 21:59:43,670 7279 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}

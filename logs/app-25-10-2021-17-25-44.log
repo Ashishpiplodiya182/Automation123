@@ -1,0 +1,262 @@
+2021-10-25 17:25:44,087 389  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-25 17:25:44,453 755  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 17:25:44,455 757  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_17_25_44
+2021-10-25 17:25:44,630 932  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 17:25:51,594 7896 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to Create User
+2021-10-25 17:25:52,669 8971 [main] INFO  com.demo.Trello.TC2_CreateList - 61769b4d085c663164668ac7 written in token.json file
+2021-10-25 17:25:52,674 8976 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "61769b4d085c663164668ac7",
+    "name": "automation",
+    "closed": false,
+    "pos": 4096,
+    "idBoard": "61769b14efa9792b4db25204",
+    "limits": {
+        
+    }
+}
+2021-10-25 17:25:53,665 9967 [main] INFO  com.demo.Trello.TC3_CreateCard - 61769b4ed5209c1cf49ecce8 written in token.json file
+2021-10-25 17:25:53,666 9968 [main] INFO  com.demo.Trello.TC3_CreateCard - Project Created Successfully
+2021-10-25 17:25:53,671 9973 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "61769b4ed5209c1cf49ecce8",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T11:55:58.113Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "61769b14efa9792b4db25204",
+    "idList": "61769b4d085c663164668ac7",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "o6l1dDJ4",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/o6l1dDJ4",
+    "start": null,
+    "url": "https://trello.com/c/o6l1dDJ4/2-automationcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+2021-10-25 17:25:54,543 10845 [main] INFO  com.demo.Trello.TC4_GetCard - Project fetched Successfully
+2021-10-25 17:25:54,548 10850 [main] INFO  com.demo.Trello.TC4_GetCard - {
+    "id": "61769b4ed5209c1cf49ecce8",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T11:55:58.113Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "61769b14efa9792b4db25204",
+    "idList": "61769b4d085c663164668ac7",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "o6l1dDJ4",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/o6l1dDJ4",
+    "start": null,
+    "url": "https://trello.com/c/o6l1dDJ4/2-automationcard",
+    "idMembers": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    }
+}
+2021-10-25 17:25:55,458 11760 [main] INFO  com.demo.Trello.TC5_UpdateCard - Project Updated Successfully using PUT Request
+2021-10-25 17:25:55,464 11766 [main] INFO  com.demo.Trello.TC5_UpdateCard - {
+    "id": "61769b4ed5209c1cf49ecce8",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T11:55:58.113Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "61769b14efa9792b4db25204",
+    "idList": "61769b4d085c663164668ac7",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "o6l1dDJ4",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/o6l1dDJ4",
+    "start": null,
+    "url": "https://trello.com/c/o6l1dDJ4/2-automationcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ]
+}
+2021-10-25 17:25:56,192 12494 [main] INFO  com.demo.Trello.TC6_DeleteCard - Project Deleted Successfully
+2021-10-25 17:25:56,194 12496 [main] INFO  com.demo.Trello.TC6_DeleteCard - invalid key

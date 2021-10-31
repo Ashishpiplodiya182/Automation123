@@ -1,0 +1,15 @@
+2021-10-25 21:55:49,861 342  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-25 21:55:50,126 607  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 21:55:50,127 608  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_21_55_50
+2021-10-25 21:55:50,267 748  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 21:55:55,982 6463 [main] INFO  com.demo.Trello.TC2_CreateList - 6176da961580bd3f7e507823 written in token.json file
+2021-10-25 21:55:56,000 6481 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6176da961580bd3f7e507823",
+    "name": "TestyantraAutomation",
+    "closed": false,
+    "pos": 8192,
+    "idBoard": "6176da6305b71e120bc62ace",
+    "limits": {
+        
+    }
+}

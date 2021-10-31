@@ -1,0 +1,92 @@
+2021-10-26 12:38:48,870 459  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:38:48,878 467  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_38_48
+2021-10-26 12:38:49,047 636  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:38:51,736 3325 [main] INFO  com.demo.Trello.TC3_CreateCard - Header added to the request
+2021-10-26 12:38:51,766 3355 [main] INFO  com.demo.Trello.TC3_CreateCard - Query Parameter added to the Request
+2021-10-26 12:38:56,015 7604 [main] INFO  com.demo.Trello.TC3_CreateCard - 6177a98a6c4a4956402c79ad written in .json file
+2021-10-26 12:38:56,053 7642 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "6177a98a6c4a4956402c79ad",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-26T07:08:58.611Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6177a90baea05d4493f851bd",
+    "idList": "6177a90e3b0a2162139801f6",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "TrelloAutomation",
+    "pos": 16384,
+    "shortLink": "ZeUrbNmL",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/ZeUrbNmL",
+    "start": null,
+    "url": "https://trello.com/c/ZeUrbNmL/2-trelloautomation",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}

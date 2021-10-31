@@ -1,0 +1,127 @@
+2021-10-24 22:16:17,461 367  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 22:16:17,785 691  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 22:16:17,787 693  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_22_16_17
+2021-10-24 22:16:17,935 841  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 22:16:23,488 6394 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 22:16:26,149 9055 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MTAxMTg5LCJpYXQiOjE2MzUwOTM5ODl9.75ltWGOJ46_zmeeJTtFhBp7weQrc5GOG5vBgH0-6Ajz_fZhHghW5_Xw3_eaRj5NSCr-ab79tt_kXY0KVuX7tBg written in token.json file
+2021-10-24 22:16:26,152 9058 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MTAxMTg5LCJpYXQiOjE2MzUwOTM5ODl9.75ltWGOJ46_zmeeJTtFhBp7weQrc5GOG5vBgH0-6Ajz_fZhHghW5_Xw3_eaRj5NSCr-ab79tt_kXY0KVuX7tBg"
+}
+2021-10-24 22:16:28,025 10931 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 22:16:29,856 12762 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    },
+    {
+        "jobId": 234,
+        "jobTitle": "SDET Engineer",
+        "jobDescription": "SDET Role",
+        "experience": [
+            "2 Years"
+        ],
+        "project": [
+            {
+                "projectName": "HCL",
+                "technology": [
+                    "java"
+                ]
+            }
+        ]
+    }
+]
+2021-10-24 22:16:31,617 14523 [main] INFO  com.demo.JobPortal.TC5_FindProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 22:16:33,218 16124 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 22:16:34,757 17663 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 22:16:36,404 19310 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}

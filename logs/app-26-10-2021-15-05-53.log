@@ -1,0 +1,18 @@
+2021-10-26 15:05:53,779 399  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 15:05:53,783 403  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_15_05_53
+2021-10-26 15:05:53,933 553  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 15:05:56,122 2742 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:05:56,147 2767 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:06:00,079 6699 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cc0268ccbf4586deb635 written in .json file
+2021-10-26 15:06:00,085 6705 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:06:00,088 6708 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:06:00,895 7515 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cc0462fa9a6dda8cb2d8 written in .json file
+2021-10-26 15:06:00,917 7537 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:06:00,920 7540 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:06:01,876 8496 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cc05dbd5c006db342dce written in .json file
+2021-10-26 15:06:01,881 8501 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:06:01,886 8506 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:06:02,591 9211 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:06:02,593 9213 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:06:03,301 9921 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:06:03,302 9922 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request

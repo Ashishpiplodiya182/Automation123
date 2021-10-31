@@ -1,0 +1,5 @@
+2021-10-19 13:39:23,770 581  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-19 13:39:23,899 710  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 13:39:24,194 1005 [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\vikas\git\DemoMavenProject/reports/Automation Report- 10_19_2021_13_39_24
+2021-10-19 13:39:24,647 1458 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 13:39:28,874 5685 [main] INFO  com.demo.testscripts.TC1_SignUpUser - Response is macthing

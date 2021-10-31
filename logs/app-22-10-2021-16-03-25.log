@@ -1,0 +1,4 @@
+2021-10-22 16:03:25,763 231  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 16:03:25,766 234  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_16_03_25
+2021-10-22 16:03:25,915 383  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 16:03:27,108 1576 [main] ERROR com.demo.JobPortal.Testing - Unable to Delete the Project

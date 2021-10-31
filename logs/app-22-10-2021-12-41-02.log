@@ -1,0 +1,5 @@
+2021-10-22 12:41:02,437 180  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-22 12:41:02,660 403  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 12:41:02,662 405  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_12_41_02
+2021-10-22 12:41:02,846 589  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 12:41:10,467 8210 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODkzODcwLCJpYXQiOjE2MzQ4ODY2NzB9.YHfj29Ws657YQkkIXblzMmbTt2E6uSbAcdTiFhdtea2A_e_8HWi96nT2h-S86iUBApt9uqwnDInlO5898YMsBQ written in token.json file

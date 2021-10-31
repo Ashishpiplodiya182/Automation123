@@ -1,0 +1,10 @@
+2021-10-25 21:00:30,963 384  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 21:00:30,967 388  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_21_00_30
+2021-10-25 21:00:31,112 533  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 21:00:36,369 5790 [main] INFO  com.demo.Trello.Trello_Test - 6176cd9edc042c0f39045100 written in token.json file
+2021-10-25 21:00:37,332 6753 [main] INFO  com.demo.Trello.Trello_Test - 6176cda1f66c447717f65c74 written in token.json file
+2021-10-25 21:00:38,304 7725 [main] INFO  com.demo.Trello.Trello_Test - 6176cda2d8d152037d972221 written in token.json file
+2021-10-25 21:00:38,305 7726 [main] INFO  com.demo.Trello.Trello_Test - Card Created Successfully
+2021-10-25 21:00:39,263 8684 [main] INFO  com.demo.Trello.Trello_Test - Card fetched Successfully
+2021-10-25 21:00:40,023 9444 [main] INFO  com.demo.Trello.Trello_Test - Card Updated Successfully using PUT Request
+2021-10-25 21:00:40,887 10308 [main] INFO  com.demo.Trello.Trello_Test - Card Deleted Successfully

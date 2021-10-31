@@ -1,0 +1,9 @@
+2021-10-24 18:44:18,524 401  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:44:18,808 685  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:44:18,814 691  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_44_18
+2021-10-24 18:44:18,982 859  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:44:25,014 6891 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 18:44:27,704 9581 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg4NDcxLCJpYXQiOjE2MzUwODEyNzF9.QV8hURn5-onA5sUDpf86rZDmZe4_eQ9Vxn-YITVQ84YjFJ6i6b084LKOmt7p085bLvcQe238igAK3v13FWzcjw written in token.json file
+2021-10-24 18:44:27,707 9584 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg4NDcxLCJpYXQiOjE2MzUwODEyNzF9.QV8hURn5-onA5sUDpf86rZDmZe4_eQ9Vxn-YITVQ84YjFJ6i6b084LKOmt7p085bLvcQe238igAK3v13FWzcjw"
+}

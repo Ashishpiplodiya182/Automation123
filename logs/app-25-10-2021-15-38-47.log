@@ -1,0 +1,6 @@
+2021-10-25 15:38:48,054 612  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 15:38:48,058 616  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_15_38_48
+2021-10-25 15:38:48,310 868  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 15:38:50,147 2705 [main] INFO  com.demo.Trello.Trello_Test - Header added to the request
+2021-10-25 15:38:50,177 2735 [main] INFO  com.demo.Trello.Trello_Test - Query parameter added to the request
+2021-10-25 15:38:55,505 8063 [main] INFO  com.demo.Trello.Trello_Test - 6176823952aa063afacd4676 written in json file

@@ -1,0 +1,26 @@
+2021-10-24 19:04:41,739 333  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 19:04:42,093 687  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 19:04:42,097 691  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_19_04_42
+2021-10-24 19:04:42,285 879  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 19:04:48,035 6629 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 19:04:50,753 9347 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5Njk0LCJpYXQiOjE2MzUwODI0OTR9.8659esZ97EbINdc-okvx4i4KoGzawxF9rEGn7ha_rMdwO2kpzYp5wQ2NN9fEDIttsf8QWORBDcBLJCQvA7Ebeg written in token.json file
+2021-10-24 19:04:50,756 9350 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5Njk0LCJpYXQiOjE2MzUwODI0OTR9.8659esZ97EbINdc-okvx4i4KoGzawxF9rEGn7ha_rMdwO2kpzYp5wQ2NN9fEDIttsf8QWORBDcBLJCQvA7Ebeg"
+}
+2021-10-24 19:04:52,430 11024 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 19:04:54,375 12969 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully

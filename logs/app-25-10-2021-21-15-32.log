@@ -1,0 +1,5 @@
+2021-10-25 21:15:33,038 417  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 21:15:33,043 422  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_21_15_33
+2021-10-25 21:15:33,186 565  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 21:15:37,775 5154 [main] INFO  com.demo.Trello.TC6_DeleteCard - Card Deleted Successfully
+2021-10-25 21:15:37,778 5157 [main] INFO  com.demo.Trello.TC6_DeleteCard - invalid key

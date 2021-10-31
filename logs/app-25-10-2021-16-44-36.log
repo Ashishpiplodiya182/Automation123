@@ -1,0 +1,8 @@
+2021-10-25 16:44:36,331 460  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 16:44:36,336 465  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_16_44_36
+2021-10-25 16:44:36,507 636  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 16:44:42,690 6819 [main] INFO  com.demo.Trello.Trello_Test - 617691a52b49d8085ffae08c written in token.json file
+2021-10-25 16:44:43,520 7649 [main] INFO  com.demo.Trello.Trello_Test - 617691a8de9e5e0e14dead0f written in token.json file
+2021-10-25 16:44:44,319 8448 [main] INFO  com.demo.Trello.Trello_Test - 617691a84985527dc0153b50 written in token.json file
+2021-10-25 16:44:44,320 8449 [main] INFO  com.demo.Trello.Trello_Test - Project Created Successfully
+2021-10-25 16:44:45,037 9166 [main] INFO  com.demo.Trello.Trello_Test - Project Updated Successfully using PUT Request

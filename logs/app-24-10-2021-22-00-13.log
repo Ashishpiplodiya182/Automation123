@@ -1,0 +1,14 @@
+2021-10-24 22:00:13,704 337  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 22:00:14,036 669  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 22:00:14,039 672  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_22_00_14
+2021-10-24 22:00:14,187 820  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 22:00:16,390 3023 [main] ERROR com.demo.JobPortal.TC1_UserSignUp - Unable to add Path Parameter
+2021-10-24 22:00:16,559 3192 [main] ERROR com.demo.JobPortal.TC2_GetToken - Unable to add Path Parameter
+2021-10-24 22:00:16,691 3324 [main] ERROR com.demo.JobPortal.TC3_CreateProject - Unable to add Path Parameter
+2021-10-24 22:00:16,810 3443 [main] ERROR com.demo.JobPortal.TC4_GetAllProjects - Unable to add Path Parameter
+2021-10-24 22:00:16,927 3560 [main] ERROR com.demo.JobPortal.TC5_FindProject - Unable to add Path Parameter
+2021-10-24 22:00:17,182 3815 [main] ERROR com.demo.JobPortal.TC6_UpdateProject - Unable to add Path Parameter
+2021-10-24 22:00:17,338 3971 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to add Path Parameter
+2021-10-24 22:00:20,993 7626 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "message": "Entry with id = 234 not found"
+}

@@ -1,0 +1,6 @@
+2021-10-25 14:19:41,384 417  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 14:19:41,388 421  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_14_19_41
+2021-10-25 14:19:41,532 565  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 14:19:42,854 1887 [main] INFO  com.demo.Trello.Trello_Test - Header added to the request
+2021-10-25 14:19:42,877 1910 [main] INFO  com.demo.Trello.Trello_Test - Query parameter added to the request
+2021-10-25 14:19:45,454 4487 [main] ERROR com.demo.Trello.Trello_Test - Unable to send the POST Request

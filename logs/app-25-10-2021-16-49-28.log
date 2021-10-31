@@ -1,0 +1,4 @@
+2021-10-25 16:49:28,371 450  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 16:49:28,376 455  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_16_49_28
+2021-10-25 16:49:28,542 621  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 16:49:30,212 2291 [main] ERROR com.demo.Trello.Trello_Test - Unable to add Path Parameter

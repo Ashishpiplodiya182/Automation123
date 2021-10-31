@@ -1,0 +1,5 @@
+2021-10-22 14:43:18,714 198  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 14:43:18,717 201  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_14_43_18
+2021-10-22 14:43:18,803 287  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 14:43:23,931 5415 [main] INFO  com.demo.JobPortal.Testing - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0OTAxMjA0LCJpYXQiOjE2MzQ4OTQwMDR9.B8uF1rI3f5E0wRsuwQY_u0QCZCN0u2nADzotfEQLyihM5gC6QfF71esUSCtVE0v1c6t2vTHUdcehkbuQE_oxUQ written in token.json file
+2021-10-22 14:43:28,807 10291 [main] ERROR com.demo.JobPortal.Testing - User is not Signed Up

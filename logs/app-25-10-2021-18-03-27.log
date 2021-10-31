@@ -1,0 +1,6 @@
+2021-10-25 18:03:27,663 403  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-25 18:03:27,957 697  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 18:03:27,959 699  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_18_03_27
+2021-10-25 18:03:28,123 863  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 18:03:33,752 6492 [main] INFO  com.demo.Trello.TC6_DeleteCard - Card Deleted Successfully
+2021-10-25 18:03:33,762 6502 [main] INFO  com.demo.Trello.TC6_DeleteCard - invalid key

@@ -1,0 +1,1 @@
+{"uuid":"6b6f7c4a-2996-4e31-8aaa-66514f794cf6","name":"com.demo.Trello.TC4_GetCard","children":["1fef627b-d736-49f7-96da-3094774b3830"],"befores":[{"name":"setExtentReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1635499981120,"stop":1635499981121}],"afters":[],"links":[],"start":1635499966080,"stop":1635499986487}

@@ -1,0 +1,12 @@
+2021-10-24 21:56:08,820 400  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 21:56:09,121 701  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 21:56:09,124 704  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_21_56_09
+2021-10-24 21:56:09,282 862  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 21:56:14,951 6531 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - Project Deleted Successfully
+2021-10-24 21:56:14,957 6537 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - {
+    "timestamp": "2021-10-24T16:26:18.991+0000",
+    "status": 405,
+    "error": "Method Not Allowed",
+    "message": "Request method 'DELETE' not supported",
+    "path": "/auth/webapi/update/details"
+}

@@ -1,0 +1,4 @@
+2021-10-25 20:55:57,448 374  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 20:55:57,452 378  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_20_55_57
+2021-10-25 20:55:57,598 524  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 20:55:59,664 2590 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to add Query Parameter

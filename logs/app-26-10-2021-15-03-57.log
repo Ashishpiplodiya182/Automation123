@@ -1,0 +1,11 @@
+2021-10-26 15:03:57,480 429  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 15:03:57,484 433  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_15_03_57
+2021-10-26 15:03:57,631 580  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 15:03:59,812 2761 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:03:59,833 2782 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:04:03,643 6592 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cb8e8f77aa6171eb6803 written in .json file
+2021-10-26 15:04:03,647 6596 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:04:03,650 6599 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:04:04,580 7529 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177cb907c56861c3a86d677 written in .json file
+2021-10-26 15:04:04,585 7534 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:04:04,588 7537 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request

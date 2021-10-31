@@ -1,0 +1,5 @@
+2021-10-24 21:52:00,680 346  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 21:52:00,934 600  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 21:52:00,936 602  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_21_52_00
+2021-10-24 21:52:01,078 744  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 21:52:03,327 2993 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to Send the Update Request

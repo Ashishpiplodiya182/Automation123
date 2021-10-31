@@ -1,0 +1,5 @@
+2021-10-25 18:17:21,339 421  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-25 18:17:21,631 713  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 18:17:21,635 717  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_18_17_21
+2021-10-25 18:17:21,820 902  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 18:17:27,579 6661 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to Create board

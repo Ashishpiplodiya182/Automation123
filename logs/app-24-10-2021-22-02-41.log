@@ -1,0 +1,7 @@
+2021-10-24 22:02:41,074 322  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 22:02:41,365 613  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 22:02:41,367 615  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_22_02_41
+2021-10-24 22:02:41,519 767  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 22:02:47,495 6743 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "message": "Entry with id = 234 not found"
+}

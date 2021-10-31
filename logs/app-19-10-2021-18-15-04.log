@@ -1,0 +1,7 @@
+2021-10-19 18:15:04,464 170  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-19 18:15:04,629 335  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 18:15:04,634 340  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_19_2021_18_15_04
+2021-10-19 18:15:04,744 450  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 18:15:12,145 7851 [main] INFO  com.demo.testscripts.TC1_UserSignUp - Manikandan register successfully
+2021-10-19 18:15:12,152 7858 [main] INFO  com.demo.testscripts.TC1_UserSignUp - Passsed
+2021-10-19 18:15:18,109 13815 [main] INFO  com.demo.testscripts.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0NjU0NzE3LCJpYXQiOjE2MzQ2NDc1MTd9.HUsry73eqe0PBjFIveRl_e5d0w2qHRldHc5rcB1iAdFNoSAmF9ihNdmXx7Eu9ZdgztApezHkFbMg7EMAVEEgUg Token is generated

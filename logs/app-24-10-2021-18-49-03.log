@@ -1,0 +1,55 @@
+2021-10-24 18:49:03,906 357  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:49:04,315 766  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:49:04,318 769  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_49_04
+2021-10-24 18:49:04,483 934  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:49:10,171 6622 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 18:49:12,807 9258 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg4NzU2LCJpYXQiOjE2MzUwODE1NTZ9.wR82UWC8uGRKGurxIm5TGQ9-20TpedeUY0O71ber89sXs1qWHrA-5ojTbXwISCoHeM6iILaFeFEpyCJ3FOqhoQ written in token.json file
+2021-10-24 18:49:12,809 9260 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg4NzU2LCJpYXQiOjE2MzUwODE1NTZ9.wR82UWC8uGRKGurxIm5TGQ9-20TpedeUY0O71ber89sXs1qWHrA-5ojTbXwISCoHeM6iILaFeFEpyCJ3FOqhoQ"
+}
+2021-10-24 18:49:14,544 10995 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "timestamp": "2021-10-24T13:19:18.835+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/add"
+}
+2021-10-24 18:49:16,392 12843 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-24 18:49:16,396 12847 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    }
+]
+2021-10-24 18:49:18,135 14586 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-24 18:49:18,138 14589 [main] INFO  com.demo.JobPortal.TC5_FindProject - {
+    "message": "Failed to find job with id=234, jobTitle=SDET Engineer"
+}
+2021-10-24 18:49:19,816 16267 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - Project Updated Successfully using PUT Request
+2021-10-24 18:49:19,820 16271 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "message": "Failed to update Entry [jobId=234, jobTitle=SDET Engineer, jobDescription=SDET, experience=[Ljava.lang.Object;@50260d02, project=[[projectName=HCL, technology=[java]]]]"
+}
+2021-10-24 18:49:21,416 17867 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - Project Updated Successfully using PATCH Request
+2021-10-24 18:49:21,419 17870 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - {
+    "message": "Failed to find job with id=234"
+}
+2021-10-24 18:49:23,101 19552 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - Project Deleted Successfully
+2021-10-24 18:49:23,109 19560 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - {
+    "message": "Entry with id = 234 not found"
+}

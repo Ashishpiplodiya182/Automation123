@@ -1,0 +1,58 @@
+2021-10-26 12:25:51,210 458  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:25:51,215 463  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_25_51
+2021-10-26 12:25:51,381 629  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:25:54,018 3266 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 12:25:54,038 3286 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 12:25:58,124 7372 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177a680751d81714eedf543 written in .json file
+2021-10-26 12:25:58,163 7411 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "6177a680751d81714eedf543",
+    "name": "Testyantra",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/3cj6EXGS/testyantra",
+    "shortUrl": "https://trello.com/b/3cj6EXGS",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}

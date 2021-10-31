@@ -1,0 +1,4 @@
+2021-10-25 16:28:04,921 454  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 16:28:04,925 458  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_16_28_04
+2021-10-25 16:28:05,093 626  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 16:28:07,539 3072 [main] ERROR com.demo.Trello.Trello_Test - Unable to update the Project using PUT Request

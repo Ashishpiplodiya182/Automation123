@@ -1,0 +1,30 @@
+2021-10-26 12:09:45,086 381  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-26 12:09:45,468 763  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:09:45,470 765  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_09_45
+2021-10-26 12:09:45,642 937  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:09:48,318 3613 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 12:09:48,344 3639 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 12:09:52,406 7701 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to Create board
+2021-10-26 12:09:52,630 7925 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-26 12:09:52,638 7933 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-26 12:09:53,365 8660 [main] ERROR com.demo.Trello.TC2_CreateList - Unable to write 6177a2bd3ef15e8ba7e96410 in json file
+2021-10-26 12:09:53,371 8666 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6177a2bd3ef15e8ba7e96410",
+    "name": ",",
+    "closed": false,
+    "pos": 2048,
+    "idBoard": "61779d61b5a5fe58742cdf2c",
+    "limits": {
+        
+    }
+}
+2021-10-26 12:09:53,581 8876 [main] INFO  com.demo.Trello.TC3_CreateCard - Header added to the request
+2021-10-26 12:09:53,587 8882 [main] INFO  com.demo.Trello.TC3_CreateCard - Query Parameter added to the Request
+2021-10-26 12:09:54,204 9499 [main] ERROR com.demo.Trello.TC3_CreateCard - Unable to Create Card
+2021-10-26 12:09:54,514 9809 [main] INFO  com.demo.Trello.TC4_GetCard - Header added to the request
+2021-10-26 12:09:54,516 9811 [main] INFO  com.demo.Trello.TC4_GetCard - Query Parameter added to the Request
+2021-10-26 12:09:55,303 10598 [main] INFO  com.demo.Trello.TC5_UpdateCard - Header added to the request
+2021-10-26 12:09:55,305 10600 [main] INFO  com.demo.Trello.TC5_UpdateCard - Query Parameter added to the Request
+2021-10-26 12:09:56,083 11378 [main] INFO  com.demo.Trello.TC6_DeleteCard - Header added to the request
+2021-10-26 12:09:56,085 11380 [main] INFO  com.demo.Trello.TC6_DeleteCard - Query Parameter added to the Request
+2021-10-26 12:09:56,714 12009 [main] INFO  com.demo.Trello.TC6_DeleteCard - The requested resource was not found.

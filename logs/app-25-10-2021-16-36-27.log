@@ -1,0 +1,4 @@
+2021-10-25 16:36:28,087 506  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 16:36:28,093 512  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_16_36_28
+2021-10-25 16:36:28,287 706  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 16:36:33,124 5543 [main] INFO  com.demo.Trello.Trello_Test - Project Updated Successfully using PUT Request

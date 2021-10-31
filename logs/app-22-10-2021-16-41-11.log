@@ -1,0 +1,12 @@
+2021-10-22 16:41:11,771 152  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-22 16:41:11,937 318  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 16:41:11,941 322  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_16_41_11
+2021-10-22 16:41:12,032 413  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 16:41:13,048 1429 [main] ERROR com.demo.JobPortal.TC1_UserSignUp - User is not Signed Up
+2021-10-22 16:41:13,108 1489 [main] ERROR com.demo.JobPortal.TC2_GetToken - User is not Signed Up
+2021-10-22 16:41:13,155 1536 [main] ERROR com.demo.JobPortal.TC3_CreateProject - User is not Signed Up
+2021-10-22 16:41:13,208 1589 [main] ERROR com.demo.JobPortal.TC4_GetAllProjects - Unable to fetch the Project
+2021-10-22 16:41:13,250 1631 [main] ERROR com.demo.JobPortal.TC5_FindProject - Unable to fetch the Project
+2021-10-22 16:41:13,309 1690 [main] ERROR com.demo.JobPortal.TC6_UpdateProject - Unable to update the Project
+2021-10-22 16:41:13,346 1727 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to update the Project
+2021-10-22 16:41:13,387 1768 [main] ERROR com.demo.JobPortal.TC8_DeleteProject - Unable to Delete the Project

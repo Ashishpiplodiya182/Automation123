@@ -1,0 +1,13 @@
+2021-10-20 15:56:21,766 198  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-20 15:56:21,942 374  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 15:56:21,946 378  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_20_2021_15_56_21
+2021-10-20 15:56:22,046 478  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 15:56:25,438 3870 [main] INFO  com.demo.testscripts.TC1_UserSignUp - Manikandan register successfully
+2021-10-20 15:56:27,909 6341 [main] INFO  com.demo.testscripts.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0NzMyNzg4LCJpYXQiOjE2MzQ3MjU1ODh9.LK6vf_m49EnP2-Ybr87XSdj5uF4rR-86IWvcM77Z5irxf-p3rbCqdm7OaqtCvkuyVzE_3w8emaaeHP6Z9s-3gw written in token.json file
+2021-10-20 15:56:27,910 6342 [main] INFO  com.demo.testscripts.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0NzMyNzg4LCJpYXQiOjE2MzQ3MjU1ODh9.LK6vf_m49EnP2-Ybr87XSdj5uF4rR-86IWvcM77Z5irxf-p3rbCqdm7OaqtCvkuyVzE_3w8emaaeHP6Z9s-3gw Token is generated
+2021-10-20 15:56:29,499 7931 [main] INFO  com.demo.testscripts.TC3_CreateProject - The Project data is present
+2021-10-20 15:56:31,502 9934 [main] INFO  com.demo.testscripts.TC4_GetAllProjects - Fetched the Project Content
+2021-10-20 15:56:33,047 11479 [main] INFO  com.demo.testscripts.TC5_FindProject - Fetched the Project Content
+2021-10-20 15:56:34,789 13221 [main] INFO  com.demo.testscripts.TC6_UpdateProject - Updated the Project
+2021-10-20 15:56:36,426 14858 [main] INFO  com.demo.testscripts.TC7_UpdateUsingPatch - Updated the Project using Patch
+2021-10-20 15:56:38,753 17185 [main] INFO  com.demo.testscripts.TC8_DeleteProject - The Project is deleted

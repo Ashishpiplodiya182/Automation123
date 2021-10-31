@@ -1,0 +1,1 @@
+{"uuid":"2722a5a7-16aa-448a-8ea9-26a03e32f3d5","name":"Default suite","children":["8c6d4cdd-605a-443a-bccb-321fba90a2df"],"befores":[{"name":"createFiles","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1635359242794,"stop":1635359243167}],"afters":[],"links":[],"start":1635359242727,"stop":1635359255316}

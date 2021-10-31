@@ -1,0 +1,6 @@
+2021-10-26 12:27:18,638 462  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:27:18,642 466  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_27_18
+2021-10-26 12:27:18,802 626  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:27:21,418 3242 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-26 12:27:21,450 3274 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-26 12:27:24,217 6041 [main] ERROR com.demo.Trello.TC2_CreateList - Unable to Create list

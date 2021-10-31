@@ -1,0 +1,15 @@
+2021-10-22 17:21:40,089 167  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-22 17:21:40,286 364  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 17:21:40,288 366  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_17_21_40
+2021-10-22 17:21:40,392 470  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 17:22:02,781 22859 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-22 17:22:04,835 24913 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0OTEwNzI0LCJpYXQiOjE2MzQ5MDM1MjR9.BDXa6j5_moccnTiVxSPUPQSt-yBen44y5iD76dsvRW9mbsyQOKYqjMrTANCrQHWtjr3kMpysLifga9tehTpWqw written in token.json file
+2021-10-22 17:22:04,836 24914 [main] INFO  com.demo.JobPortal.TC2_GetToken - Token :{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0OTEwNzI0LCJpYXQiOjE2MzQ5MDM1MjR9.BDXa6j5_moccnTiVxSPUPQSt-yBen44y5iD76dsvRW9mbsyQOKYqjMrTANCrQHWtjr3kMpysLifga9tehTpWqw"
+}generated Sucessfully
+2021-10-22 17:22:06,430 26508 [main] INFO  com.demo.JobPortal.TC3_CreateProject - Project Created Successfully
+2021-10-22 17:22:07,846 27924 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-22 17:22:09,245 29323 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-22 17:22:10,623 30701 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - Project Updated Successfully using PUT Request
+2021-10-22 17:22:11,996 32074 [main] INFO  com.demo.JobPortal.TC7_UpdateUsingPatch - Project Updated Successfully using PATCH Request
+2021-10-22 17:22:13,391 33469 [main] INFO  com.demo.JobPortal.TC8_DeleteProject - Project Deleted Successfully

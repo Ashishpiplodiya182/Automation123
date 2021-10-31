@@ -1,0 +1,9 @@
+2021-10-27 14:00:52,152 836  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-27 14:00:52,460 1144 [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-27 14:00:52,463 1147 [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_27_2021_14_00_52
+2021-10-27 14:00:52,650 1334 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-27 14:00:55,315 3999 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-27 14:00:55,339 4023 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-27 14:00:59,245 7929 [main] INFO  com.demo.Trello.TC1_CreateBoard - 61790e468e53eb2cbc6a1a97 written in .json file
+2021-10-27 14:00:59,250 7934 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-27 14:00:59,253 7937 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request

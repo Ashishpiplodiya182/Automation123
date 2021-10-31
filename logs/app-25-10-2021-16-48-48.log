@@ -1,0 +1,9 @@
+2021-10-25 16:48:48,496 495  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 16:48:48,500 499  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_16_48_48
+2021-10-25 16:48:48,668 667  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 16:48:54,435 6434 [main] INFO  com.demo.Trello.Trello_Test - 617692a1b039242f93516251 written in token.json file
+2021-10-25 16:48:55,156 7155 [main] INFO  com.demo.Trello.Trello_Test - 617692a39ae4577eda33e7c3 written in token.json file
+2021-10-25 16:48:55,914 7913 [main] INFO  com.demo.Trello.Trello_Test - 617692a47f9664741898ef31 written in token.json file
+2021-10-25 16:48:55,915 7914 [main] INFO  com.demo.Trello.Trello_Test - Project Created Successfully
+2021-10-25 16:48:56,616 8615 [main] INFO  com.demo.Trello.Trello_Test - Project Updated Successfully using PUT Request
+2021-10-25 16:48:56,624 8623 [main] ERROR com.demo.Trello.Trello_Test - Unable to add Path Parameter

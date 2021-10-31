@@ -1,0 +1,314 @@
+2021-10-25 18:01:10,514 342  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-25 18:01:10,875 703  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 18:01:10,878 706  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_18_01_10
+2021-10-25 18:01:11,058 886  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 18:01:17,943 7771 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6176a399d9bc902bae976611 written in token.json file
+2021-10-25 18:01:17,974 7802 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "6176a399d9bc902bae976611",
+    "name": "testyantraAutomation",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/9bF5QBuk/testyantraautomation",
+    "shortUrl": "https://trello.com/b/9bF5QBuk",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}
+2021-10-25 18:01:18,900 8728 [main] INFO  com.demo.Trello.TC2_CreateList - 6176a39be51b012a8119d2fb written in token.json file
+2021-10-25 18:01:18,902 8730 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6176a39be51b012a8119d2fb",
+    "name": "automation",
+    "closed": false,
+    "pos": 8192,
+    "idBoard": "6176a399d9bc902bae976611",
+    "limits": {
+        
+    }
+}
+2021-10-25 18:01:19,878 9706 [main] INFO  com.demo.Trello.TC3_CreateCard - 6176a39cb9f33f2898c54c34 written in token.json file
+2021-10-25 18:01:19,879 9707 [main] INFO  com.demo.Trello.TC3_CreateCard - Card Created Successfully
+2021-10-25 18:01:19,883 9711 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "6176a39cb9f33f2898c54c34",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T12:31:24.328Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6176a399d9bc902bae976611",
+    "idList": "6176a39be51b012a8119d2fb",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "Sotrv4fk",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/Sotrv4fk",
+    "start": null,
+    "url": "https://trello.com/c/Sotrv4fk/1-automationcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+2021-10-25 18:01:20,719 10547 [main] INFO  com.demo.Trello.TC4_GetCard - Card fetched Successfully
+2021-10-25 18:01:20,723 10551 [main] INFO  com.demo.Trello.TC4_GetCard - {
+    "id": "6176a39cb9f33f2898c54c34",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T12:31:24.328Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6176a399d9bc902bae976611",
+    "idList": "6176a39be51b012a8119d2fb",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "Sotrv4fk",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/Sotrv4fk",
+    "start": null,
+    "url": "https://trello.com/c/Sotrv4fk/1-automationcard",
+    "idMembers": [
+        
+    ],
+    "idChecklists": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    }
+}
+2021-10-25 18:01:21,606 11434 [main] INFO  com.demo.Trello.TC5_UpdateCard - Card Updated Successfully using PUT Request
+2021-10-25 18:01:21,613 11441 [main] INFO  com.demo.Trello.TC5_UpdateCard - {
+    "id": "6176a39cb9f33f2898c54c34",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T12:31:24.328Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6176a399d9bc902bae976611",
+    "idList": "6176a39be51b012a8119d2fb",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "automationcard",
+    "pos": 16384,
+    "shortLink": "Sotrv4fk",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/Sotrv4fk",
+    "start": null,
+    "url": "https://trello.com/c/Sotrv4fk/1-automationcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "idChecklists": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false
+}
+2021-10-25 18:01:22,452 12280 [main] INFO  com.demo.Trello.TC6_DeleteCard - Card Deleted Successfully
+2021-10-25 18:01:22,454 12282 [main] INFO  com.demo.Trello.TC6_DeleteCard - invalid key

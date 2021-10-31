@@ -1,0 +1,96 @@
+2021-10-24 21:42:37,514 367  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 21:42:37,958 811  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 21:42:37,961 814  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_21_42_37
+2021-10-24 21:42:38,204 1057 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 21:42:47,393 10246 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 21:42:55,064 17917 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDk5MTc0LCJpYXQiOjE2MzUwOTE5NzR9.rBOjWNTnSgwj5S9kfkwnDSC5MlnmRWh-V7Dnk-acE3lpynAij_wL38l_IhujOTfTW-jbQOxz2SLFbC-Oy7V-dg written in token.json file
+2021-10-24 21:42:55,066 17919 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDk5MTc0LCJpYXQiOjE2MzUwOTE5NzR9.rBOjWNTnSgwj5S9kfkwnDSC5MlnmRWh-V7Dnk-acE3lpynAij_wL38l_IhujOTfTW-jbQOxz2SLFbC-Oy7V-dg"
+}
+2021-10-24 21:42:56,601 19454 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 21:42:58,604 21457 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    },
+    {
+        "jobId": 234,
+        "jobTitle": "SDET Engineer",
+        "jobDescription": "SDET Role",
+        "experience": [
+            "2 Years"
+        ],
+        "project": [
+            {
+                "projectName": "HCL",
+                "technology": [
+                    "java"
+                ]
+            }
+        ]
+    }
+]
+2021-10-24 21:43:00,358 23211 [main] INFO  com.demo.JobPortal.TC5_FindProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET Role",
+    "experience": [
+        "2 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 21:43:02,113 24966 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "jobId": 234,
+    "jobTitle": "SDET Engineer",
+    "jobDescription": "SDET",
+    "experience": [
+        "4 Years"
+    ],
+    "project": [
+        {
+            "projectName": "HCL",
+            "technology": [
+                "java"
+            ]
+        }
+    ]
+}
+2021-10-24 21:43:02,216 25069 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to Send the Update Request

@@ -1,0 +1,6 @@
+2021-10-21 17:47:07,649 168  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-21 17:47:07,851 370  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-21 17:47:07,858 377  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_21_2021_17_47_07
+2021-10-21 17:47:07,955 474  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-21 17:47:14,084 6603 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0ODI1ODMzLCJpYXQiOjE2MzQ4MTg2MzN9.PYrGTtWidS_WUQb9QZo-C1HwVbD2VHggoX_Ipz472bad_1lS3yUQHOTiY99lxR7WpVE8BLFw5TQF_pbedpiUTA written in token.json file
+2021-10-21 17:47:15,699 8218 [main] ERROR com.demo.JobPortal.TC4_GetAllProjects - Project is not Fetched

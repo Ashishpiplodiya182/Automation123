@@ -1,0 +1,6 @@
+2021-10-26 15:18:13,528 495  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 15:18:13,535 502  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_15_18_13
+2021-10-26 15:18:13,713 680  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 15:18:16,396 3363 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 15:18:16,429 3396 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 15:18:16,499 3466 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to add Path Parameter

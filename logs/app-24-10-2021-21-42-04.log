@@ -1,0 +1,11 @@
+2021-10-24 21:42:04,399 1482 [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 21:42:05,428 2511 [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 21:42:05,435 2518 [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_21_42_05
+2021-10-24 21:42:06,145 3228 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 21:42:15,154 12237 [main] ERROR com.demo.JobPortal.TC1_UserSignUp - Unable to send the POST Request
+2021-10-24 21:42:15,389 12472 [main] ERROR com.demo.JobPortal.TC2_GetToken - Unable to send the POST Request
+2021-10-24 21:42:15,610 12693 [main] ERROR com.demo.JobPortal.TC3_CreateProject - Unable to send the POST Request
+2021-10-24 21:42:15,827 12910 [main] ERROR com.demo.JobPortal.TC4_GetAllProjects - Unable to Send the GET Request
+2021-10-24 21:42:16,042 13125 [main] ERROR com.demo.JobPortal.TC5_FindProject - Unable to Send the GET Request
+2021-10-24 21:42:16,210 13293 [main] ERROR com.demo.JobPortal.TC6_UpdateProject - Unable to Send the Update Request
+2021-10-24 21:42:16,309 13392 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to Send the Update Request

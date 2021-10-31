@@ -1,0 +1,4 @@
+2021-10-20 13:02:48,216 188  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-20 13:02:48,220 192  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_20_2021_13_02_48
+2021-10-20 13:02:48,313 285  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-20 13:02:49,196 1168 [main] ERROR com.demo.testscripts.TC8_DeleteProject - The Project is deleted

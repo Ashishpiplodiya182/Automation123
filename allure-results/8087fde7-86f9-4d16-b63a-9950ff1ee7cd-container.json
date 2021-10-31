@@ -1,0 +1,1 @@
+{"uuid":"8087fde7-86f9-4d16-b63a-9950ff1ee7cd","name":"com.demo.Trello.DeleteBoard","children":["e3aedce2-b644-462e-8705-9bbbd257a01f"],"befores":[{"name":"setExtentReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1635488055889,"stop":1635488055889}],"afters":[],"links":[],"start":1635488040568,"stop":1635488057666}

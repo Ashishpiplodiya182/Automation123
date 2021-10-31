@@ -1,0 +1,72 @@
+2021-10-26 12:12:49,732 376  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-26 12:12:50,093 737  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:12:50,096 740  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_12_50
+2021-10-26 12:12:50,266 910  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:12:53,007 3651 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 12:12:53,032 3676 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 12:12:57,452 8096 [main] ERROR com.demo.Trello.TC1_CreateBoard - Unable to write 6177a3738a47983dab478829 in json file
+2021-10-26 12:12:57,512 8156 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "6177a3738a47983dab478829",
+    "name": "Testyantra",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/0wFeTMYF/testyantra",
+    "shortUrl": "https://trello.com/b/0wFeTMYF",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}
+2021-10-26 12:12:57,779 8423 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-26 12:12:57,799 8443 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-26 12:12:58,510 9154 [main] ERROR com.demo.Trello.TC2_CreateList - Unable to Create list
+2021-10-26 12:12:58,661 9305 [main] INFO  com.demo.Trello.TC3_CreateCard - Header added to the request
+2021-10-26 12:12:58,665 9309 [main] INFO  com.demo.Trello.TC3_CreateCard - Query Parameter added to the Request
+2021-10-26 12:12:59,438 10082 [main] ERROR com.demo.Trello.TC3_CreateCard - Unable to Create Card
+2021-10-26 12:12:59,593 10237 [main] INFO  com.demo.Trello.TC4_GetCard - Header added to the request
+2021-10-26 12:12:59,598 10242 [main] INFO  com.demo.Trello.TC4_GetCard - Query Parameter added to the Request
+2021-10-26 12:13:00,790 11434 [main] INFO  com.demo.Trello.TC5_UpdateCard - Header added to the request
+2021-10-26 12:13:00,793 11437 [main] INFO  com.demo.Trello.TC5_UpdateCard - Query Parameter added to the Request
+2021-10-26 12:13:01,593 12237 [main] INFO  com.demo.Trello.TC6_DeleteCard - Header added to the request
+2021-10-26 12:13:01,596 12240 [main] INFO  com.demo.Trello.TC6_DeleteCard - Query Parameter added to the Request
+2021-10-26 12:13:02,251 12895 [main] INFO  com.demo.Trello.TC6_DeleteCard - The requested resource was not found.

@@ -1,0 +1,34 @@
+2021-10-24 18:48:34,402 343  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:48:34,731 672  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:48:34,734 675  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_48_34
+2021-10-24 18:48:34,886 827  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:48:37,127 3068 [main] ERROR com.demo.JobPortal.TC1_UserSignUp - Unable to add Path Parameter
+2021-10-24 18:48:37,289 3230 [main] ERROR com.demo.JobPortal.TC2_GetToken - Unable to add Path Parameter
+2021-10-24 18:48:37,430 3371 [main] ERROR com.demo.JobPortal.TC3_CreateProject - Unable to add Path Parameter
+2021-10-24 18:48:41,080 7021 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-24 18:48:41,088 7029 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - [
+    {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+            "Google",
+            "Apple",
+            "Mobile Iron"
+        ],
+        "project": [
+            {
+                "projectName": "Movie App",
+                "technology": [
+                    "Kotlin",
+                    "SQL Lite",
+                    "Gradle"
+                ]
+            }
+        ]
+    }
+]
+2021-10-24 18:48:42,854 8795 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-24 18:48:42,858 8799 [main] INFO  com.demo.JobPortal.TC5_FindProject - {
+    "message": "Failed to find job with id=234, jobTitle=SDET Engineer"
+}

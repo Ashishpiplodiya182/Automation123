@@ -1,0 +1,68 @@
+2021-10-26 00:07:23,628 322  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-26 00:07:23,925 619  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 00:07:23,927 621  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_00_07_23
+2021-10-26 00:07:24,081 775  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 00:07:30,064 6758 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6176f96c57a38547b3e45f22 written in token.json file
+2021-10-26 00:07:30,079 6773 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "6176f96c57a38547b3e45f22",
+    "name": "TestyantraAutomation",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/3F1pcPyh/testyantraautomation",
+    "shortUrl": "https://trello.com/b/3F1pcPyh",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}
+2021-10-26 00:07:36,034 12728 [main] INFO  com.demo.Trello.TC2_CreateList - 6176f973f198595fe68ed70b written in token.json file
+2021-10-26 00:07:36,037 12731 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6176f973f198595fe68ed70b",
+    "name": "TestyantraAutomation",
+    "closed": false,
+    "pos": 8192,
+    "idBoard": "6176f96c57a38547b3e45f22",
+    "limits": {
+        
+    }
+}

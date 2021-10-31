@@ -1,0 +1,5 @@
+2021-10-24 22:08:49,509 340  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 22:08:49,763 594  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 22:08:49,765 596  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_22_08_49
+2021-10-24 22:08:49,909 740  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 22:08:56,191 7022 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully

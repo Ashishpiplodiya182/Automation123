@@ -1,0 +1,29 @@
+2021-10-29 11:50:15,782 1940 [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-29 11:50:16,194 2352 [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-29 11:50:16,200 2358 [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_29_2021_11_50_16
+2021-10-29 11:50:16,653 2811 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-29 11:50:22,724 8882 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-29 11:50:22,796 8954 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-29 11:50:28,479 14637 [main] INFO  com.demo.Trello.TC1_CreateBoard - 617b92aebfced401a786c85a written in .json file
+2021-10-29 11:50:28,818 14976 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-29 11:50:28,820 14978 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-29 11:50:28,822 14980 [main] INFO  com.demo.Trello.TC2_CreateList - Value fetched from JSON file: boardId    617b92aebfced401a786c85a
+2021-10-29 11:50:29,619 15777 [main] INFO  com.demo.Trello.TC2_CreateList - 617b92b2e04e0118527f281e written in .json file
+2021-10-29 11:50:29,818 15976 [main] INFO  com.demo.Trello.TC3_CreateCard - Header added to the request
+2021-10-29 11:50:29,820 15978 [main] INFO  com.demo.Trello.TC3_CreateCard - Query Parameter added to the Request
+2021-10-29 11:50:29,823 15981 [main] INFO  com.demo.Trello.TC3_CreateCard - Value fetched from JSON file: listId    617b92b2e04e0118527f281e
+2021-10-29 11:50:30,695 16853 [main] INFO  com.demo.Trello.TC3_CreateCard - 617b92b34d59a7635c96ed85 written in .json file
+2021-10-29 11:50:30,819 16977 [main] INFO  com.demo.Trello.TC4_GetCard - Header added to the request
+2021-10-29 11:50:30,821 16979 [main] INFO  com.demo.Trello.TC4_GetCard - Query Parameter added to the Request
+2021-10-29 11:50:30,826 16984 [main] INFO  com.demo.Trello.TC4_GetCard - Value fetched from JSON file: cardId    617b92b34d59a7635c96ed85
+2021-10-29 11:50:31,705 17863 [main] INFO  com.demo.Trello.TC5_UpdateCard - Header added to the request
+2021-10-29 11:50:31,708 17866 [main] INFO  com.demo.Trello.TC5_UpdateCard - Query Parameter added to the Request
+2021-10-29 11:50:31,728 17886 [main] INFO  com.demo.Trello.TC5_UpdateCard - Value fetched from JSON file: cardId    617b92b34d59a7635c96ed85
+2021-10-29 11:50:32,601 18759 [main] INFO  com.demo.Trello.TC6_DeleteCard - Value fetched from JSON file: boardId    617b92aebfced401a786c85a
+2021-10-29 11:50:32,607 18765 [main] INFO  com.demo.Trello.TC6_DeleteCard - Header added to the request
+2021-10-29 11:50:32,613 18771 [main] INFO  com.demo.Trello.TC6_DeleteCard - Query Parameter added to the Request
+2021-10-29 11:50:32,641 18799 [main] INFO  com.demo.Trello.TC6_DeleteCard - Value fetched from JSON file: cardId    617b92b34d59a7635c96ed85
+2021-10-29 11:50:33,600 19758 [main] INFO  com.demo.Trello.DeleteBoard - Header added to the request
+2021-10-29 11:50:33,602 19760 [main] INFO  com.demo.Trello.DeleteBoard - Query Parameter added to the Request
+2021-10-29 11:50:33,603 19761 [main] INFO  com.demo.Trello.DeleteBoard - Value fetched from JSON file: boardId    617b92aebfced401a786c85a
+2021-10-29 11:50:34,280 20438 [main] INFO  com.demo.Trello.DeleteBoard - 617b92b6be89c159147f5440 written in .json file

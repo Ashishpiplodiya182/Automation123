@@ -1,0 +1,56 @@
+2021-10-26 09:48:41,294 680  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 09:48:41,315 701  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_09_48_41
+2021-10-26 09:48:41,674 1060 [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 09:48:51,871 11257 [main] INFO  com.demo.Trello.TC1_CreateBoard - 617781adfc1c5c27be5963ee written in token.json file
+2021-10-26 09:48:51,919 11305 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "617781adfc1c5c27be5963ee",
+    "name": "TestyantraAutomation",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/qlAAYxCt/testyantraautomation",
+    "shortUrl": "https://trello.com/b/qlAAYxCt",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}

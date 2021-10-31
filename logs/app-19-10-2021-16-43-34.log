@@ -1,0 +1,4 @@
+2021-10-19 16:43:34,150 197  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 16:43:34,154 201  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_19_2021_16_43_34
+2021-10-19 16:43:34,250 297  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 16:43:34,277 324  [main] INFO  com.demo.testscripts.TC1_UserSignUp - Passsed

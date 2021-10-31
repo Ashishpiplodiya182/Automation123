@@ -1,0 +1,27 @@
+2021-10-24 18:55:47,173 358  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-24 18:55:47,501 686  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-24 18:55:47,504 689  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_24_2021_18_55_47
+2021-10-24 18:55:47,683 868  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-24 18:55:53,264 6449 [main] INFO  com.demo.JobPortal.TC1_UserSignUp - Manikandan register successfully
+2021-10-24 18:55:56,096 9281 [main] INFO  com.demo.JobPortal.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5MTU5LCJpYXQiOjE2MzUwODE5NTl9.3aOCmTsaYXbx3HevU02ozExMzph4cWrSCn9beooq5GinwjNQObRN6CFzrblca0KYa6wRtxJS3J9GBeC7kOsW0g written in token.json file
+2021-10-24 18:55:56,098 9283 [main] INFO  com.demo.JobPortal.TC2_GetToken - {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM1MDg5MTU5LCJpYXQiOjE2MzUwODE5NTl9.3aOCmTsaYXbx3HevU02ozExMzph4cWrSCn9beooq5GinwjNQObRN6CFzrblca0KYa6wRtxJS3J9GBeC7kOsW0g"
+}
+2021-10-24 18:55:58,027 11212 [main] INFO  com.demo.JobPortal.TC3_CreateProject - {
+    "timestamp": "2021-10-24T13:26:02.295+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/add"
+}
+2021-10-24 18:55:59,737 12922 [main] INFO  com.demo.JobPortal.TC4_GetAllProjects - Project fetched Successfully
+2021-10-24 18:56:01,377 14562 [main] INFO  com.demo.JobPortal.TC5_FindProject - Project fetched Successfully
+2021-10-24 18:56:03,095 16280 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - Project Updated Successfully using PUT Request
+2021-10-24 18:56:03,098 16283 [main] INFO  com.demo.JobPortal.TC6_UpdateProject - {
+    "timestamp": "2021-10-24T13:26:07.401+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/auth/webapi/update"
+}
+2021-10-24 18:56:03,190 16375 [main] ERROR com.demo.JobPortal.TC7_UpdateUsingPatch - Unable to Send the Update Request

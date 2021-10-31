@@ -1,0 +1,91 @@
+2021-10-25 21:11:25,887 406  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-25 21:11:25,892 411  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_25_2021_21_11_25
+2021-10-25 21:11:26,040 559  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-25 21:11:32,064 6583 [main] INFO  com.demo.Trello.TC3_CreateCard - 6176d02e10eb1841013a6e07 written in token.json file
+2021-10-25 21:11:32,077 6596 [main] INFO  com.demo.Trello.TC3_CreateCard - Card Created Successfully
+2021-10-25 21:11:32,084 6603 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "6176d02e10eb1841013a6e07",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-25T15:41:34.923Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6176cf4a809899178dae4f47",
+    "idList": "6176cfcbba20942b419d74f0",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "TestyantraAutomation",
+    "pos": 16384,
+    "shortLink": "HaI58jop",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/HaI58jop",
+    "start": null,
+    "url": "https://trello.com/c/HaI58jop/1-testyantraautomation",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "idChecklists": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}

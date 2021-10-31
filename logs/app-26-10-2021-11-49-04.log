@@ -1,0 +1,16 @@
+2021-10-26 11:49:04,406 459  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 11:49:04,412 465  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_11_49_04
+2021-10-26 11:49:04,598 651  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 11:49:07,359 3412 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-26 11:49:07,390 3443 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-26 11:49:11,532 7585 [main] ERROR com.demo.Trello.TC2_CreateList - Unable to write 61779de2a5052415c393da4f in json file
+2021-10-26 11:49:11,561 7614 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "61779de2a5052415c393da4f",
+    "name": "TestyantraAutomation",
+    "closed": false,
+    "pos": 4096,
+    "idBoard": "61779d61b5a5fe58742cdf2c",
+    "limits": {
+        
+    }
+}

@@ -1,0 +1,4 @@
+2021-10-19 15:46:23,590 210  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-19 15:46:23,594 214  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_19_2021_15_46_23
+2021-10-19 15:46:23,675 295  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-19 15:46:28,799 5419 [main] INFO  com.demo.testscripts.TC2_GetToken - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0NjQ1Nzg4LCJpYXQiOjE2MzQ2Mzg1ODh9.FJNy5DrXFxMKWfx19dMDEduKMCcfceIppvjYXB5Dh67ku_tQOekgKaFRuHvQK7s1FBqf3FhBNM9RaKfSjZC_RQ Token is generated

@@ -1,0 +1,5 @@
+2021-10-22 15:48:04,243 227  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-22 15:48:04,247 231  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\mechm\Downloads\DemoMavenProject/reports/Automation Report- 10_22_2021_15_48_04
+2021-10-22 15:48:04,362 346  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-22 15:48:09,879 5863 [main] INFO  com.demo.JobPortal.Testing - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJNYW5pa2FuZGFuIiwiZXhwIjoxNjM0OTA1MDg5LCJpYXQiOjE2MzQ4OTc4ODl9.cUw7Zev20aeIPESIu5m9YoW6i0NkKMO6laJE2jP4zf9yPZyIaFRrDrlbDoP2sC2LRzEhUWikRcs4HyQrzQ4ZYA written in token.json file
+2021-10-22 15:48:13,968 9952 [main] ERROR com.demo.JobPortal.Testing - Unable to update the Project

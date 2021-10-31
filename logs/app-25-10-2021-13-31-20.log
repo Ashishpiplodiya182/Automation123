@@ -1,0 +1,2 @@
+2021-10-25 13:31:20,791 2079 [main] ERROR com.demo.baseutil.BaseTest - Unable to add Query Parameter
+2021-10-25 13:31:20,814 2102 [main] ERROR com.demo.baseutil.BaseTest - Unable to send the POST Request

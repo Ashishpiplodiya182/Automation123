@@ -1,0 +1,326 @@
+2021-10-26 12:34:35,444 413  [main] INFO  com.demo.baseutil.BaseTest - Running locally JavaMail
+2021-10-26 12:34:35,817 786  [main] INFO  com.demo.baseutil.BaseTest - Folder creation for Extent
+2021-10-26 12:34:35,820 789  [main] INFO  com.demo.baseutil.BaseTest - ExtentDir:-C:\Users\Dell\Downloads\DemoMavenProjectNew\DemoMavenProjectNew/reports/Automation Report- 10_26_2021_12_34_35
+2021-10-26 12:34:35,997 966  [main] INFO  com.demo.baseutil.BaseTest - Report Initiated
+2021-10-26 12:34:38,812 3781 [main] INFO  com.demo.Trello.TC1_CreateBoard - Header added to the request
+2021-10-26 12:34:38,844 3813 [main] INFO  com.demo.Trello.TC1_CreateBoard - Query Parameter added to the Request
+2021-10-26 12:34:43,031 8000 [main] INFO  com.demo.Trello.TC1_CreateBoard - 6177a88dbfe7695083bff20e written in .json file
+2021-10-26 12:34:43,051 8020 [main] INFO  com.demo.Trello.TC1_CreateBoard - {
+    "id": "6177a88dbfe7695083bff20e",
+    "name": "Testyantra",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "60c21b03202c167a2083ea7e",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/kLlJVZoQ/testyantra",
+    "shortUrl": "https://trello.com/b/kLlJVZoQ",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "background": "blue",
+        "backgroundImage": null,
+        "backgroundImageScaled": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundColor": "#0079BF",
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": ""
+    },
+    "limits": {
+        
+    }
+}
+2021-10-26 12:34:43,219 8188 [main] INFO  com.demo.Trello.TC2_CreateList - Header added to the request
+2021-10-26 12:34:43,221 8190 [main] INFO  com.demo.Trello.TC2_CreateList - Query Parameter added to the Request
+2021-10-26 12:34:43,933 8902 [main] INFO  com.demo.Trello.TC2_CreateList - 6177a88fe3de763c6694761e written in .json file
+2021-10-26 12:34:43,935 8904 [main] INFO  com.demo.Trello.TC2_CreateList - {
+    "id": "6177a88fe3de763c6694761e",
+    "name": "MQASList",
+    "closed": false,
+    "pos": 8192,
+    "idBoard": "6177a88dbfe7695083bff20e",
+    "limits": {
+        
+    }
+}
+2021-10-26 12:34:44,088 9057 [main] INFO  com.demo.Trello.TC3_CreateCard - Header added to the request
+2021-10-26 12:34:44,090 9059 [main] INFO  com.demo.Trello.TC3_CreateCard - Query Parameter added to the Request
+2021-10-26 12:34:44,867 9836 [main] INFO  com.demo.Trello.TC3_CreateCard - 6177a8907bdef5572d8505ce written in .json file
+2021-10-26 12:34:44,873 9842 [main] INFO  com.demo.Trello.TC3_CreateCard - {
+    "id": "6177a8907bdef5572d8505ce",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-26T07:04:48.905Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6177a88dbfe7695083bff20e",
+    "idList": "6177a88fe3de763c6694761e",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "TrelloAutomation",
+    "pos": 16384,
+    "shortLink": "HVlO7pEu",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/HVlO7pEu",
+    "start": null,
+    "url": "https://trello.com/c/HVlO7pEu/1-trelloautomation",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "attachments": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+2021-10-26 12:34:45,014 9983 [main] INFO  com.demo.Trello.TC4_GetCard - Header added to the request
+2021-10-26 12:34:45,015 9984 [main] INFO  com.demo.Trello.TC4_GetCard - Query Parameter added to the Request
+2021-10-26 12:34:45,678 10647 [main] INFO  com.demo.Trello.TC4_GetCard - {
+    "id": "6177a8907bdef5572d8505ce",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-26T07:04:48.905Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6177a88dbfe7695083bff20e",
+    "idList": "6177a88fe3de763c6694761e",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "TrelloAutomation",
+    "pos": 16384,
+    "shortLink": "HVlO7pEu",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/HVlO7pEu",
+    "start": null,
+    "url": "https://trello.com/c/HVlO7pEu/1-trelloautomation",
+    "idMembers": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ],
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    }
+}
+2021-10-26 12:34:50,876 15845 [main] INFO  com.demo.Trello.TC5_UpdateCard - Header added to the request
+2021-10-26 12:34:50,878 15847 [main] INFO  com.demo.Trello.TC5_UpdateCard - Query Parameter added to the Request
+2021-10-26 12:34:51,566 16535 [main] INFO  com.demo.Trello.TC5_UpdateCard - {
+    "id": "6177a8907bdef5572d8505ce",
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dateLastActivity": "2021-10-26T07:04:55.668Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "dueReminder": null,
+    "idBoard": "6177a88dbfe7695083bff20e",
+    "idList": "6177a88fe3de763c6694761e",
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "",
+    "pos": 16384,
+    "shortLink": "HVlO7pEu",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "email": null,
+    "labels": [
+        
+    ],
+    "shortUrl": "https://trello.com/c/HVlO7pEu",
+    "start": null,
+    "url": "https://trello.com/c/HVlO7pEu/1--",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "idMembers": [
+        
+    ],
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [
+        
+    ]
+}
+2021-10-26 12:34:56,644 21613 [main] INFO  com.demo.Trello.TC6_DeleteCard - Header added to the request
+2021-10-26 12:34:56,645 21614 [main] INFO  com.demo.Trello.TC6_DeleteCard - Query Parameter added to the Request
+2021-10-26 12:34:57,318 22287 [main] INFO  com.demo.Trello.TC6_DeleteCard - {
+    "limits": {
+        
+    }
+}
